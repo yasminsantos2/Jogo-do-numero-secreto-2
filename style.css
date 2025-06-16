@@ -4,8 +4,6 @@
     padding: 0;
     color: white;
 }
-
-
 body {
     background: linear-gradient(#1354A5 0%, #041832 33.33%, #041832 66.67%, #01080E 100%);
     height: 100vh;
@@ -13,10 +11,6 @@ body {
     align-items: center;
     justify-content: center;
 }
-
-
-
-
 body::before {
     background-image: url("img/code.png");
     background-repeat: no-repeat;
@@ -28,7 +22,6 @@ body::before {
     height: 100%;
     opacity: 0.4;
 }
-
 .container {
     width: 80%;
     height: 80%;
